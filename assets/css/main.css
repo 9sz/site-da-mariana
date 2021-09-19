@@ -1,11 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
 
-/*
-	Photon by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -3109,7 +3104,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 6em 0 6em 0 ;
+		padding: 2em 0 2em 0 ;
 		background-color:	#8a4b56;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
@@ -3124,7 +3119,7 @@ input, select, textarea {
 		}
 
 			#footer a:hover {
-				color: #ffffff;
+				color: #000000;
 			}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
@@ -3201,10 +3196,11 @@ input, select, textarea {
 
 		#footer .icons {
 			margin: 0;
+			padding: 0;
 		}
 
 		#footer .copyright {
-			font-size: 0.8em;
+			font-size: 1em;
 			list-style: none;
 			margin: 2em 0 0 0;
 			padding: 0;
@@ -3223,6 +3219,7 @@ input, select, textarea {
 					margin-left: 0;
 					padding: 0;
 				}
+		
 
 /* XLarge */
 
@@ -3510,3 +3507,4 @@ input, select, textarea {
 			}
 
 	}
+
